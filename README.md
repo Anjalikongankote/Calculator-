@@ -1,0 +1,1 @@
+A clean and functional calculator built with HTML, CSS, and JavaScript that allows users to perform basic mathematical calculations. The project features a user-friendly interface and real-time input handling. It showcases core web development concepts including DOM manipulation, event listeners, and responsive design.
